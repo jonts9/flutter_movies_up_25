@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_movies_up_25/pages/home_page.dart';
 import 'package:flutter_movies_up_25/pages/login_page.dart';
 
 void main() => runApp(MyApp());
